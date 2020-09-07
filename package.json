@@ -1,0 +1,25 @@
+{
+  "name": "todo-mvc-testing",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas con cypress",
+  "main": "index.js",
+  "scripts": {
+    "test:cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faog/todo-mvc-testing.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Fabiola Orellana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faog/todo-mvc-testing/issues"
+  },
+  "homepage": "https://github.com/faog/todo-mvc-testing#readme",
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  }
+}
