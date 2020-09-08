@@ -4,6 +4,7 @@
   "description": "Proyecto de pruebas con cypress",
   "main": "index.js",
   "scripts": {
+    "test:cypress": "cypress run",
     "test:cypress:open": "./node_modules/.bin/cypress open"
   },
   "repository": {
