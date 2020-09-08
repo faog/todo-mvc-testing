@@ -1,1 +1,5 @@
-{}
+{
+  "baseUrl": "http://todomvc-app-for-testing.surge.sh/",
+  "viewportwidth":1000,
+  "viewportHeight":900
+}
